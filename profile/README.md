@@ -53,13 +53,13 @@ If we are finished we'll host our own support server.
 
 ### Contribute
 
-This project is only possible by volunteers like you and me, your contribution is very much appreciated.
+This project is made possible by volunteers like you and me, your contribution is very much appreciated.
 
 If you would like to contribute then [read this guide](https://docs.fosscord.com/contributing/server/).
 
 ### License
 
-Copyright (C) 2021 Fosscord and Fosscord Contributors
+Copyright (C) 2021 Fosscord team and Fosscord Contributors
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
 published by the Free Software Foundation version 3 of the
