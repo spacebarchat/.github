@@ -1,5 +1,7 @@
 <p align="center">
-  <img width="100" src="https://raw.githubusercontent.com/fosscord/fosscord/master/assets-rebrand/png/Fosscord-Discord-Icon.png" />
+
+  <img width="100" src="https://raw.githubusercontent.com/fosscord/fosscord/master/assets-rebrand/svg/Fosscord-Icon-Rounded-Subtract.svg" />
+
 </p>
 <h1 align="center">Fosscord</h1>
 
@@ -16,7 +18,7 @@
 
 ### [About](https://fosscord.com/)
 
-Fosscord is a **f**ree **o**pen **s**ource selfhostable dis**cord** compatible chat, voice and video platform
+Fosscord is a **f**ree **o**pen **s**ource **s**elfhostable dis**cord** compatible chat, voice and video platform
 
 * **Discord-compatible** (Communicate with all friends who are "still" using discord.com)
 * **Selfhostable** ([Download Server](https://github.com/fosscord/fosscord-server/releases))
@@ -28,7 +30,8 @@ Fosscord is a **f**ree **o**pen **s**ource selfhostable dis**cord** compatible c
 * **Encrypted** (End to end encryption for secure and private conversation)
 * **Secure** (publicly audited and hosted FOSS software for transparent foundation in terms of security)
 
-Logo by [@Flam3rboy](https://github.com/Flam3rboy).
+Logo by [@ItsRealmy](https://github.com/ItsRealmy).
+Original logo by [@nwlandas](https://twitter.com/nwlandas).
 
 ### Installation
 
@@ -53,13 +56,13 @@ If we are finished we'll host our own support server.
 
 ### Contribute
 
-This project is made possible by volunteers like you and me, your contribution is very much appreciated.
+This project is only possible by volunteers like you and me, your contribution is very much appreciated.
 
 If you would like to contribute then [read this guide](https://docs.fosscord.com/contributing/server/).
 
 ### License
 
-Copyright (C) 2021 Fosscord team and Fosscord Contributors
+Copyright (C) 2021 Fosscord and Fosscord Contributors
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as
 published by the Free Software Foundation version 3 of the
