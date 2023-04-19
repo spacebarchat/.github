@@ -48,8 +48,8 @@ For any kind of support regarding Spacebar, feel free to ask questions in our [D
 
 ### Contribute
 
-This project is only possible by volunteers like you your contribution is very much appreciated.
-You can find information about how to contribute [here](https://docs.spacebar.chat/contributing/).
+This project is only possible by volunteers like you your contribution is very much appreciated.  
+You can find information about how to contribute [here](https://docs.spacebar.chat/contributing/).  
 We also mark issues as "Good first issues" if you're looking for things to get you started.
 
 ### License
