@@ -27,23 +27,15 @@ Spacebar is a free, opensource selfhostable discord-compatible chat, voice and v
 * **Decentralized** (no abuse of power and doesn't have a single point of failure)
 * **Extendable** (secure and cross-platform plugin system)
 * **Themeable** (cross-platform theme system with design editor)
-* **Encrypted** (End to end encryption for secure and private conversation)
 * **Secure** (publicly audited and hosted FOSS software for transparent foundation in terms of security)
 
 Logo by [@ItsRealmy](https://github.com/ItsRealmy).
 Original logo by [@nwlandas](https://twitter.com/nwlandas).
 
-### Installation
+### Usage and Support
 
-* Client coming soon
-* [Server](https://github.com/spacebarchat/server/releases) (very early pre release)
-
-### Support
-
-[https://discord.gg/ZrnGQP6p3d](https://discord.gg/ZrnGQP6p3d)
-
-If we are finished we'll host our own support server.
-
+You can find setup guides and lots of other information in our [Documentation](https://docs.spacebar.chat)  
+For any kind of support regarding Spacebar, feel free to ask questions in our [Discord guild](https://discord.gg/ZrnGQP6p3d).
 
 ### Repositories
 
@@ -51,14 +43,14 @@ If we are finished we'll host our own support server.
 | :--- | :--- |
 | [Server](https://github.com/spacebarchat/server) | Spacebar API + Gateway + CDN Server + WebRTC + Admin Dashboard |
 | [Client](https://github.com/spacebarchat/client) | Spacebar Client compatible with Spacebar-server and discord.com |
-| [UI](https://github.com/spacebarchat/ui) | Open Source CSS framework in the style of Discord |
 | [Docs](https://github.com/spacebarchat/docs) | Documentation of Spacebar |
+| [Landing page](https://github.com/spacebarchat/landing-page) | Our [Homepage](https://spacebar.chat) |
 
 ### Contribute
 
-This project is only possible by volunteers like you and me, your contribution is very much appreciated.
-
-If you would like to contribute then [read this guide](https://docs.spacebar.chat/contributing/server/).
+This project is only possible by volunteers like you your contribution is very much appreciated.
+You can find information about how to contribute [here](https://docs.spacebar.chat/contributing/).
+We also mark issues as "Good first issues" if you're looking for things to get you started.
 
 ### License
 
