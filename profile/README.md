@@ -44,7 +44,7 @@ For any kind of support regarding Spacebar, feel free to ask questions in our [D
 | [Server](https://github.com/spacebarchat/server) | Spacebar API + Gateway + CDN Server + WebRTC + Admin Dashboard |
 | [Client](https://github.com/spacebarchat/client) | Spacebar Client compatible with Spacebar-server and discord.com |
 | [Docs](https://github.com/spacebarchat/docs) | Documentation of Spacebar |
-| [Landing page](https://github.com/spacebarchat/landing-page) | Our [Homepage](https://spacebar.chat) |
+| [Landing page](https://github.com/spacebarchat/landingpage) | Our [Homepage](https://spacebar.chat) |
 
 ### Contribute
 
